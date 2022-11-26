@@ -26,3 +26,4 @@ Important links for developer
 
 # Important Website:
 1. https://anisulislam.netlify.app/
+2. https://www.toptal.com/developers
