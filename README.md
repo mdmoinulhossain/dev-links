@@ -35,3 +35,8 @@ Important links for developer
 
 # WordPress:
 1. https://proelements.org/ - elementor pro
+2. https://wordpress.org/plugins/wpvivid-backuprestore/ - Backup and Migrate
+
+
+# SEO:
+1. https://www.seoquake.com/index.html - SEO extension
