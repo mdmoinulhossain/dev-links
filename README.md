@@ -17,6 +17,7 @@ Important links for developer
 4. https://bennettfeely.com/clippy/ - clipping path
 5. https://9elements.github.io/fancy-border-radius/ - Border radius (like: 10% 10% 10% 10% / 10% 10% 10% 10%)
 
+6. https://tutsplus.com/
 
 * css SVG Design generator
 1. https://editor.method.ac/
