@@ -22,6 +22,9 @@ Important links for developer
 * css SVG Design generator
 1. https://editor.method.ac/
 
+* Design Pattern
+1. https://www.magicpattern.design/
+
 ----------------------------------------------------fonts----------------------------------------
 * Bangla fonts 
 1. https://lipighor.com/
