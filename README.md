@@ -10,7 +10,9 @@ Everything you get here:
 2. https://colorhunt.co/
 3. https://coolors.co/palettes/trending
 4. https://cssgradient.io/ - gradient background
-5. 
+5. https://htmlcolorcodes.com/ -
+6. https://mycolor.space/
+7. https://colordesigner.io/gradient-generator - gradiant mixer
 
 --design--
 * css Box shadow
