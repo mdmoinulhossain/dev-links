@@ -2,7 +2,7 @@
 /* Everything you get here: */
 -- https://freefrontend.com/
 ------------------------------
-#ColorPalettes--
+# ColorPalettes--
 * https://colorpalettes.net/
 * https://colorhunt.co/
 * https://coolors.co/palettes/trending
@@ -11,7 +11,7 @@
 * https://mycolor.space/
 * https://colordesigner.io/gradient-generator - gradiant mixer
 
-#design--
+# design--
 - css Box shadow
 * https://getcssscan.com/css-box-shadow-examples
 * https://neumorphism.io/#e0e0e0
@@ -34,15 +34,20 @@
 
 * https://tutsplus.com/
 
-#Web Dev Generator
-
+# Web Dev Generator
 * https://webcode.tools/
 
-#css SVG Design generator
+# css SVG Design generator
 * https://editor.method.ac/
 
-#Design Pattern
+# Design Pattern
 * https://www.magicpattern.design/
 
-#test-gradient
+# test-gradient
 * https://www.cssportal.com/css-text-gradient-generator/
+
+# free customizable illustrations:
+* https://storyset.com/
+
+# Free SVG background pattern:
+* https://fffuel.co/sssquiggly/
