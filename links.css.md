@@ -35,6 +35,10 @@
 
 * https://tutsplus.com/
 
+- SVG
+* [Documentation] https://docs.aspose.com/svg/net/what-is-an-svg-document/
+* [Convert] https://bloggerpilot.com/en/tools/svg-to-css/
+
 # Web Dev Generator
 * https://webcode.tools/
 
