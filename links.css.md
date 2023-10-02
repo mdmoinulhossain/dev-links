@@ -24,6 +24,7 @@
 - blob Maker
 * https://www.blobmaker.app/
 * https://haikei.app/
+* https://blobs.app/
 
 - cubic bezier
 * https://cubic-bezier.com/ 
