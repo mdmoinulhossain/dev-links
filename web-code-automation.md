@@ -9,3 +9,6 @@ https://zapier.com/
 
 # live image link
 https://postimages.org/
+
+# Manage file from cmd
+https://rclone.org/
