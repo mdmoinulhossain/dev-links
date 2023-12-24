@@ -12,3 +12,6 @@ https://postimages.org/
 
 # Manage file from cmd
 https://rclone.org/
+
+# html2pdf
+https://ekoopmans.github.io/html2pdf.js/
