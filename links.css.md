@@ -41,6 +41,9 @@
 * [Documentation] https://docs.aspose.com/svg/net/what-is-an-svg-document/
 * [Convert] https://bloggerpilot.com/en/tools/svg-to-css/
 
+- Logo/Icon
+* https://icons8.com/icons
+
 # Web Dev Generator
 * https://webcode.tools/
 
