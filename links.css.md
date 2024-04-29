@@ -18,6 +18,7 @@
 * https://getcssscan.com/css-box-shadow-examples
 * https://neumorphism.io/#e0e0e0
 * https://shadows.brumm.af/
+* https://css-tip.com/
 
 - Glassmorphism CSS Generator
 * https://ui.glass/generator/
