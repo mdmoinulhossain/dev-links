@@ -22,6 +22,7 @@
 
 - Glassmorphism CSS Generator
 * https://ui.glass/generator/
+* https://css.glass/
 
 - blob Maker
 * https://www.blobmaker.app/
