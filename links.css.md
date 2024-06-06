@@ -20,31 +20,36 @@
 * https://shadows.brumm.af/
 * https://css-tip.com/
 
-- Glassmorphism CSS Generator
+# Glassmorphism CSS Generator
 * https://ui.glass/generator/
 * https://css.glass/
 
-- blob Maker
+# blob Maker
 * https://www.blobmaker.app/
 * https://haikei.app/
 * https://blobs.app/
 
-- cubic bezier
+# cubic bezier
 * https://cubic-bezier.com/ 
 * https://bennettfeely.com/ - importent for design
 
-- clipping path
+# clipping path
 * https://bennettfeely.com/clippy/ 
 * https://9elements.github.io/fancy-border-radius/ - Border radius (like: 10% 10% 10% 10% / 10% 10% 10% 10%)
 
 * https://tutsplus.com/
 
-- SVG
+# SVG
 * [Documentation] https://docs.aspose.com/svg/net/what-is-an-svg-document/
 * [Convert] https://bloggerpilot.com/en/tools/svg-to-css/
 
-- Logo/Icon
+# Logo/Icon
 * https://icons8.com/icons
+
+# Emoji
+* https://emojidb.org/
+* https://emojipedia.org/
+* https://www.getemoji.com/
 
 # Web Dev Generator
 * https://webcode.tools/
