@@ -8,3 +8,8 @@
 
 # Audio cutter
 * https://audiotrimmer.com/
+
+
+# QR code/Bar code generator
+* https://www.barcode-generator.org/
+* https://www.the-qrcode-generator.com/
