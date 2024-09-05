@@ -66,5 +66,6 @@
 # free customizable illustrations:
 * https://storyset.com/
 
-# Free SVG background pattern:
+# Free SVG background pattern and design:
 * https://fffuel.co/sssquiggly/
+* https://bgjar.com/
