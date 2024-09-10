@@ -19,3 +19,6 @@
 
 # PDF editor
 * https://www.pdffiller.com/
+
+# File compressor
+* https://www.freeconvert.com/
