@@ -16,3 +16,6 @@
 
 # Tech details review:
 * https://6sense.com/tech
+
+# PDF editor
+* https://www.pdffiller.com/
