@@ -22,3 +22,6 @@
 
 # File compressor
 * https://www.freeconvert.com/
+
+# Text Editor
+* https://texteditor.com/
