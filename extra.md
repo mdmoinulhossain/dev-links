@@ -25,3 +25,6 @@
 
 # Text Editor
 * https://texteditor.com/
+
+# Flag Hex Color
+* https://www.flagcolorcodes.com/
