@@ -7,3 +7,4 @@
 * https://daisyui.com/
 * https://www.hyperui.dev/
 * https://merakiui.com/
+* https://tailwindflex.com/
