@@ -23,6 +23,9 @@
 # File compressor
 * https://www.freeconvert.com/
 
+# File Transfer
+* https://wetransfer.com/
+
 # Text Editor
 * https://texteditor.com/
 
