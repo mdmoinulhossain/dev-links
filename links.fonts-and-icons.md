@@ -1,6 +1,9 @@
 ----------------------------------------------------fonts----------------------------------------
 # Bangla fonts 
-1. https://lipighor.com/
+* https://lipighor.com/
 
 # Font Identifire:
-1. https://www.fontsquirrel.com/
+* https://www.fontsquirrel.com/
+
+# Animated Icon
+* https://unicornicons.com/
