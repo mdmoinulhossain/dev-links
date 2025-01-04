@@ -31,3 +31,12 @@
 
 # Flag Hex Color
 * https://www.flagcolorcodes.com/
+
+# Online Photoshop
+* https://www.photopea.com/
+
+# Browser Tools
+* https://omatsuri.app/
+
+# Documentation
+* https://devdocs.io/

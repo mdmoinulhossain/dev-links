@@ -56,6 +56,8 @@
 
 # css SVG Design generator
 * https://editor.method.ac/
+* https://www.shapedivider.app/
+* https://patternpad.com/
 
 # Design Pattern
 * https://www.magicpattern.design/
@@ -65,6 +67,7 @@
 
 # free customizable illustrations:
 * https://storyset.com/
+* https://undraw.co/
 
 # Free SVG background pattern and design:
 * https://fffuel.co/sssquiggly/
