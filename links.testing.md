@@ -9,3 +9,7 @@
 # Responsive Testing
 * http://www.responsinator.com/
 * https://screenfly.org/
+
+# Website Analytics
+* https://openpanel.dev/
+* https://umami.is/
