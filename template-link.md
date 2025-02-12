@@ -20,5 +20,4 @@
 19. https://treact.owaiskhan.me/
 20. https://pixelcave.com/
 21. https://onepagelove.com/
-22. https://htmlrev.com/
 23. https://uiverse.io/ - UI Library

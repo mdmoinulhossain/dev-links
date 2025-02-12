@@ -40,3 +40,7 @@
 
 # Documentation
 * https://devdocs.io/
+
+# Code Quick Reference
+* https://quickref.me/
+* https://devhints.io/
