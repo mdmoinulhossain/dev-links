@@ -5,6 +5,7 @@
 * [buildwith](https://builtwith.com/)
 * [domaintools](https://whois.domaintools.com/)
 * [info-domain-ip](https://intodns.com/)
+* [domain-info](https://www.dnslt.com/)
 
 # Responsive Testing
 * http://www.responsinator.com/
