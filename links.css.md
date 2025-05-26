@@ -50,6 +50,7 @@
 * https://emojidb.org/
 * https://emojipedia.org/
 * https://www.getemoji.com/
+* https://home.unicode.org/
 
 # Web Dev Generator
 * https://webcode.tools/
