@@ -14,3 +14,6 @@
 # Website Analytics
 * https://openpanel.dev/
 * https://umami.is/
+
+# MX Record checker
+* https://mxtoolbox.com/SuperTool.aspx
