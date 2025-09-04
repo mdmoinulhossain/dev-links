@@ -12,6 +12,8 @@
 * https://colordesigner.io/gradient-generator - gradiant mixer
 * https://www.canva.com/colors/color-wheel/
 * https://uicolors.app/
+* https://maketintsandshades.com/
+* https://www.khroma.co/
 
 # design--
 - css Box shadow
