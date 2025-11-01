@@ -8,3 +8,11 @@
 * https://www.hyperui.dev/
 * https://merakiui.com/
 * https://tailwindflex.com/
+
+## UI - Components
+
+* https://www.penguinui.com/
+* https://pinemix.com/
+* https://www.creative-tim.com/
+* https://hyperui.dev/
+* https://www.tailawesome.com/
