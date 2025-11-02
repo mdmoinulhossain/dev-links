@@ -6,6 +6,7 @@
 * [domaintools](https://whois.domaintools.com/)
 * [info-domain-ip](https://intodns.com/)
 * [domain-info](https://www.dnslt.com/)
+* [DNS-Checker](https://dnschecker.org/)
 
 # Responsive Testing
 * http://www.responsinator.com/
