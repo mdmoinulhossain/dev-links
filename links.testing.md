@@ -18,3 +18,6 @@
 
 # MX Record checker
 * https://mxtoolbox.com/SuperTool.aspx
+
+# Browser Dependency
+* https://caniuse.com/
