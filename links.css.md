@@ -75,6 +75,7 @@
 # Free SVG background pattern and design:
 * https://fffuel.co/sssquiggly/
 * https://bgjar.com/
+* https://gradient.style/
 
 # Grid Generator
 * https://cssgridgenerator.io/
