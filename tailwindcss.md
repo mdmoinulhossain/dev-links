@@ -16,3 +16,4 @@
 * https://www.creative-tim.com/
 * https://hyperui.dev/
 * https://www.tailawesome.com/
+* https://ui.shadcn.com/
