@@ -3,6 +3,7 @@
 * https://gemini.google.com/
 * https://chatgpt.com/
 * https://github.com/github/spec-kit
+* https://replit.com/
 
 
 # AI Code Agent
