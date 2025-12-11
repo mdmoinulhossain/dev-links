@@ -22,3 +22,8 @@
 
 # Browser Dependency
 * https://caniuse.com/
+
+# SSL Checker
+* sslshopper.com
+* whynopadlock.com
+* ssllabs.com
