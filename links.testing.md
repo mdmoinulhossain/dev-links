@@ -7,7 +7,8 @@
 * [info-domain-ip](https://intodns.com/)
 * [domain-info](https://www.dnslt.com/)
 * [DNS-Checker](https://dnschecker.org/)
-* [SSL-Checker](https://www.sslshopper.com/)
+* [SSL-Checker](https://www.sslshopper.com/)\
+* [hosting-ip-tester](https://check-host.net/)
 
 # Responsive Testing
 * http://www.responsinator.com/
