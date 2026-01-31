@@ -47,3 +47,8 @@
 
 # Stamp Maker
 * https://mystampmaker.com/
+
+# Wallpaper
+* https://www.wallpaperflare.com/
+* https://wallpaperset.com/
+* https://www.lummi.ai/
