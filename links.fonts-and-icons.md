@@ -7,3 +7,7 @@
 
 # Animated Icon
 * https://unicornicons.com/
+
+# Free icon
+* https://home.streamlinehq.com/
+* https://www.flaticon.com/
