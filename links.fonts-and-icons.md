@@ -11,3 +11,4 @@
 # Free icon
 * https://home.streamlinehq.com/
 * https://www.flaticon.com/
+* https://heroicons.com/
