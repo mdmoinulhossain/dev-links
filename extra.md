@@ -52,3 +52,7 @@
 * https://www.wallpaperflare.com/
 * https://wallpaperset.com/
 * https://www.lummi.ai/
+
+
+# Website Idea
+* https://devmeetsdevs.com/
