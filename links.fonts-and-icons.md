@@ -12,3 +12,4 @@
 * https://home.streamlinehq.com/
 * https://www.flaticon.com/
 * https://heroicons.com/
+* https://www.thesvg.org/ - # Free SVG
