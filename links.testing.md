@@ -9,6 +9,7 @@
 * [DNS-Checker](https://dnschecker.org/)
 * [SSL-Checker](https://www.sslshopper.com/)\
 * [hosting-ip-tester](https://check-host.net/)
+* [google-dig](https://toolbox.googleapps.com/apps/dig/)
 
 # Responsive Testing
 * http://www.responsinator.com/
